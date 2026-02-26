@@ -7,7 +7,7 @@ body {
     background: linear-gradient(to right, #4facfe, #00f2fe);
     font-family: arial,sans-serif;
 
-    background: url("assets/background-image-weather.jpg") no-repeat center center fixed;
+    background: url("background-image-weather.jpg") no-repeat center center fixed;
     background-size: cover;
     background-position: center;
 }
@@ -68,4 +68,5 @@ button:hover {
     font-size: 20px;
     color: #033764;
 }
+
 
